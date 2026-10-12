@@ -654,6 +654,18 @@ SQLi-LABS is a comprehensive test bed to Learn and understand nitti gritty of SQ
 - [SQLi-LABS](https://github.com/Audi-1/sqli-labs)
 - [SQLi-LABS Videos](http://www.securitytube.net/user/Audi)
 
+## Hack the Route
+Browser-based network and network-security labs. Each lab is a small network of real Linux machines on real links: you run ip, tcpdump, iptables/nft and dig, follow guided steps that check your work, and troubleshoot faults injected into the network. Topics include ARP spoofing, DHCP starvation, MITM, VLANs, NAT, firewalls, DNS and VPNs.
+
+- [Reconnaissance: Mapping a Network Before You Touch It](https://hacktheroute.com/labs/port-scan-and-recon)<br>
+Find which hosts are up and which services they run.
+
+- [A Honeypot: The One Host Nobody Should Ever Touch](https://hacktheroute.com/labs/honeypot)<br>
+Set out a decoy and catch a scan that touches it.
+
+- [ARP Spoofing: The Machine in the Middle](https://hacktheroute.com/labs/arp-spoof)<br>
+Poison ARP caches to sit between two hosts, then remove the attacker.
+
 Capture the Flag
 ================
 
